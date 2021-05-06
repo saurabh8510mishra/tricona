@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'maicons';
-  src:  url('../../../../Downloads/mobster/assets/fonts/maicons.eot?c9nlkl');
-  src:  url('../../../../Downloads/mobster/assets/fonts/maicons.eot?c9nlkl#iefix') format('embedded-opentype'),
-    url('../../../../Downloads/mobster/assets/fonts/maicons.ttf?c9nlkl') format('truetype'),
-    url('../../../../Downloads/mobster/assets/fonts/maicons.woff?c9nlkl') format('woff'),
-    url('../../../../Downloads/mobster/assets/fonts/maicons.svg?c9nlkl#maicons') format('svg');
+  src:  url('../../../../Downloads/mobster/static/fonts/maicons.eot?c9nlkl');
+  src:  url('../../../../Downloads/mobster/static/fonts/maicons.eot?c9nlkl#iefix') format('embedded-opentype'),
+    url('../../../../Downloads/mobster/static/fonts/maicons.ttf?c9nlkl') format('truetype'),
+    url('../../../../Downloads/mobster/static/fonts/maicons.woff?c9nlkl') format('woff'),
+    url('../../../../Downloads/mobster/static/fonts/maicons.svg?c9nlkl#maicons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
