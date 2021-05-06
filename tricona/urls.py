@@ -16,7 +16,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
-from tricona.views import dashboard
+from tricona.views import dashboard,dashboard2
 from django.conf.urls.static import static
 from django.conf import settings
 
@@ -26,4 +26,5 @@ from django.conf import settings
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', dashboard, name= 'dashboard'),
+    path('index2/', dashboard2, name= 'dashboard2'),
 ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
